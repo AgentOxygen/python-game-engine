@@ -5,6 +5,7 @@ from debug import debug_out
 from multiprocessing import Queue
 from time import time
 import pyglet
+import constants
 
 
 class GraphicsInputHandler(pyglet.window.Window):

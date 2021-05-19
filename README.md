@@ -22,6 +22,7 @@ all graphics object templates are stored. The format is as follows:
    "display_name": "Example Name",
    "attribute_1": true,
    "attribute_2": 14.2,
+   "display_once": true,
    "shapes": {
       "Circle": {
          "x" = 3.3,
